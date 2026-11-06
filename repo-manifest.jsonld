@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-community/ansible-bender/commit/e3f3a26b7db9f6eb43d4ecd8ab524db5d203b88d",
       "git:hexsha": "e3f3a26b7db9f6eb43d4ecd8ab524db5d203b88d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ansible-community/ansible-bender/commit/506242bdfc22d8d68c0ad4f325c076b7687efcef",
