@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "ansible-bender",
+  "versions": [
+    {
+      "commit": "e3f3a26b7db9f6eb43d4ecd8ab524db5d203b88d",
+      "tag": "",
+      "parsed_at": "2026-11-06T17:55:02.029356+00:00"
+    }
+  ]
+}
